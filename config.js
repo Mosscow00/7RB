@@ -14,23 +14,23 @@ global.authFile = `Session`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['249111230420', 'MOHAMMED-ADEL', true]
+  ['201033757279', '7rB 2leX', true]
 ];
 
-global.ownername = 'MIDO-𝚂𝙷𝙰𝚆𝙰𝚉𝙰';
-global.ownernumber = '249111230420';
-global.myid = '249111230420@s.whatsapp.net';
+global.ownername = '7rB 2leX';
+global.ownernumber = '201033757279';
+global.myid = '201033757279@s.whatsapp.net';
   
-global.suittag = ['249111230420', '249128749239'];
-global.prems = ['249111230420', '249128749239'];
+global.suittag = ['201033757279', '201210307869'];
+global.prems = ['201033757279', '201210307869'];
 
-global.packname = 'MOHAMMED-ADEL';
-global.author = 'MIDO-BOT';
-global.wm = 'MIDO-BOT';
-global.titulowm = 'MIDO-BOT';
-global.titulowm2 = `MIDI-BOT`
-global.igfg = 'MIDO-BOT';
-global.wait = '*「 ▓▓▓▓▓▒▒▒▒░░░ 」 صلي على النبي ي حوب 🧞 ...*';
+global.packname = '7rB 2leX';
+global.author = '7rB 2leX';
+global.wm = '7rB 2leX';
+global.titulowm = '7rB 2leX';
+global.titulowm2 = `7rB 2leX`
+global.igfg = '7rB 2leX';
+global.wait = '*「 ▓▓▓▓▓▒▒▒▒░░░  صلي على النبي ي حب 🧞 ...*';
 
 
 global.styel1 = '┌─ 〘 ';
@@ -100,10 +100,10 @@ global.year = d.toLocaleDateString('en', { year: 'numeric' });
 global.time = d.toLocaleTimeString('en', { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true });
 
 
-global.wm2 = `${dia} ${fecha}\MOHAMMED -𝔹𝕆𝕋`;
-global.gt = 'MIDO-BOT';
-global.mysticbot = 'MIDO-BOT';
-global.channel = 'https://chat.whatsapp.com/GwpVRwW4o8z11bctqm9n7Q';
+global.wm2 = `${dia} ${fecha}\M7rB 2leX-𝔹𝕆𝕋`;
+global.gt = '7rB 2leX';
+global.mysticbot = '7rB 2leX';
+global.channel = 'https://whatsapp.com/channel/0029VaoOUTCA89MgywLh6s19';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 
@@ -111,7 +111,7 @@ global.waitt = '*━────── •●• ──────━*\n> [ �
 global.waittt = '*━────── •●• ──────━*\n> [ 🧞 ] جاري التحميل ...\n*━────── •●• ──────━*';
 global.waitttt = '*[*━────── •●• ──────━*\n> [ 🧞 ] جاري التحميل ...\n*━────── •●• ──────━*';
 
-global.nomorown = '249111230420';
+global.nomorown = '201033757279';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 
 global.cmenut = '❖––––––『';
