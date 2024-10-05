@@ -1,5 +1,5 @@
 //Copyright ©JOANIMI/KILLUA
-//https://whatsapp.com/channel/0029Vab5oDNElagpHtJjmT0B
+//https://whatsapp.com/channel/0029VaoOUTCA89MgywLh6s19
 
 import { prepareWAMessageMedia, generateWAMessageFromContent, getDevice } from '@whiskeysockets/baileys'
 
@@ -11,9 +11,10 @@ const handler = async (m, { conn, text, usedPrefix: prefijo }) => {
         var joanimiimg = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/file/efb1c82a1c11caa338b8e.jpg'}}, { upload: conn.waUploadToServer })
         const interactiveMessage = {
             body: { text: `test`.trim() },
-            footer: { text: `*Astro-𝘽𝙤𝙩*`.trim() },  
+            footer: { text: `*
+            7rB 2leX*`.trim() },  
             header: {
-                title: `*┃━━━━━⬣Astro-𝙱𝙾𝚃⬣━━━━━┃*\n\n*◞❐نورت يا حب بوت استرو🤺🔥*\n\n*◞❐ تفضل القائمة يا  :* @${mentionId.split('@')[0]}\n\n*◞❐اسم البوت : بوت استرو*\n\n*◞❐موقع التنصيب : heroku*\n\n*◞❐البوت يعمل في الخاص والجروبات*\n\n*◞❐يمنع شتم البوت*\n\n*┃━━━━━⬣Astro-𝙱𝙾𝚃⬣━━━━━┃*`,
+                title: `*┃━━━━━⬣7rB 2leX⬣━━━━━┃*\n\n*◞❐بوت حرب اليكس*\n\n*◞❐ تفضل القائمة يا  :* @${mentionId.split('@')[0]}\n\n*◞❐اسم البوت : بوت استرو*\n\n*◞❐موقع التنصيب : heroku*\n\n*◞❐البوت يعمل في الخاص والجروبات*\n\n*◞❐يمنع شتم البوت*\n\n*┃━━━━━⬣7rB 2leX⬣━━━━━┃*`,
                 subtitle: ``,
                 hasMediaAttachment: true,
                 imageMessage: joanimiimg.imageMessage,
@@ -31,7 +32,7 @@ const handler = async (m, { conn, text, usedPrefix: prefijo }) => {
   						  		    rows: [
   						  		    	{
   						  		    		header: '【..≼قــســم الجروبات≽..】',
-  										      title: 'Astro-𝙱𝙾𝚃',
+  										      title: '7rB 2leX',
   									    	  description: '【..≼قــســم الجروبات≽..】',
   								    		  id: '.الجروب'
   						  		    	}
@@ -42,7 +43,7 @@ const handler = async (m, { conn, text, usedPrefix: prefijo }) => {
   						  				rows: [
   						  					{
   						  		    		header: '【..≼قــســم الاعضاء≽..】',
-  										      title: 'Astro-𝙱𝙾𝚃',
+  										      title: '7rB 2leX',
   									    	  description: '【..≼قــســم الاعضاء≽..】',
   								    		  id: '.الاعضاء'
   						  		    	}
@@ -53,7 +54,7 @@ const handler = async (m, { conn, text, usedPrefix: prefijo }) => {
   						  				rows: [
   						  					{
   						  		    		header: '【..≼قــســم الانــمـــي≽..】',
-  										      title: 'Astro-𝙱𝙾𝚃',
+  										      title: '7rB 2leX',
   									    	  description: '【..≼قــســم الانــمـــي≽..】',
   								    		  id: '.انيمي'
   						  		    	}
@@ -64,7 +65,7 @@ const handler = async (m, { conn, text, usedPrefix: prefijo }) => {
   						  				rows: [
   						  					{
   						  		    		header: '【..≼قــســم الترفيه≽..】',
-  										      title: 'Astro-𝙱𝙾𝚃',
+  										      title: '7rB 2leX',
   									    	  description: '【..≼قــســم الترفيه≽..】',
   								    		  id: '.الترفيه'
   						  		    	}
@@ -75,7 +76,7 @@ const handler = async (m, { conn, text, usedPrefix: prefijo }) => {
   						  				rows: [
   						  					{
   						  		    		header: '【..≼قــســم الايديت والصور≽..】',
-  										      title: 'Astro-𝙱𝙾𝚃',
+  										      title: '7rB 2leX',
   									    	  description: '【..≼قــســم الايديت والصور≽..】',
   								    		  id: '.الايديت'
   						  		    	}
@@ -86,7 +87,7 @@ const handler = async (m, { conn, text, usedPrefix: prefijo }) => {
   						  				rows: [
   						  					{
   						  		    		header: '【..≼قــســم التحويلات≽..】',
-  										      title: 'Astro-𝙱𝙾𝚃',
+  										      title: '7rB 2leX',
   									    	  description: '【..≼قــســم التحويلات≽..】',
   								    		  id: '.التحويلات'
   						  		    	}
@@ -97,7 +98,7 @@ const handler = async (m, { conn, text, usedPrefix: prefijo }) => {
   						  				rows: [
   						  					{
   						  		    		header: '【..≼قــســم الادوات≽..】',
-  										      title: 'Astro-𝙱𝙾𝚃',
+  										      title: '7rB 2leX',
   									    	  description: '【..≼قــســم الادوات≽..】',
   								    		  id: '.الاداوات'
   						  		    	}
@@ -108,7 +109,7 @@ const handler = async (m, { conn, text, usedPrefix: prefijo }) => {
   						  				rows: [
   						  					{
   						  		    		header: '【..≼قــســم الدين≽..】',
-  										      title: 'Astro-𝙱𝙾𝚃',
+  										      title: '7rB 2leX',
   									    	  description: '【..≼قــســم الدين≽..】',
   								    		  id: '.الدين'
   						  		    	}
@@ -119,7 +120,7 @@ const handler = async (m, { conn, text, usedPrefix: prefijo }) => {
   						  				rows: [
   						  					{
   						  		    		header: '【..≼قــســم الذكاء الاصطناعي≽..】',
-  										      title: 'Astro-𝙱𝙾𝚃',		 
+  										      title: '7rB 2leX',		 
                                            	  description: '【..≼قــســم الذكاء الاصطناعي≽..】',
   								    		  id: '.ذكاءاصطناعي'
   						  		    	}
@@ -138,9 +139,9 @@ const handler = async (m, { conn, text, usedPrefix: prefijo }) => {
                               {
                                   name: 'cta_url',
                                   buttonParamsJson: JSON.stringify({
-                                      display_text: 'منصاتي🤺🔥',
-                                      url: 'https://www.facebook.com/roplizer?mibextid=ZbWKwL',
-                                      merchant_url: ''
+                                      display_text: 'قناة البوت',
+                                      url: '',
+                                      merchant_url: 'https://whatsapp.com/channel/0029VaoOUTCA89MgywLh6s19'
                                   })
                               },
                               {
